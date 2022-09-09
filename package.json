@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1"
+  }
+}
