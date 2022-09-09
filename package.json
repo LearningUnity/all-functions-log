@@ -2,5 +2,8 @@
   "devDependencies": {
     "escodegen": "^2.0.0",
     "esprima": "^4.0.1"
+  },
+  "dependencies": {
+    "anywhere": "^1.6.0"
   }
 }
